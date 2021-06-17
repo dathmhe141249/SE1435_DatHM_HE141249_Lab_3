@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\Lab3\SE1435_DatHM_HE141249Lab_3\Lab_3\bin\Debug\Lab_3.exe.config
+C:\Users\admin\Desktop\Lab3\SE1435_DatHM_HE141249Lab_3\Lab_3\bin\Debug\Lab_3.exe
+C:\Users\admin\Desktop\Lab3\SE1435_DatHM_HE141249Lab_3\Lab_3\bin\Debug\Lab_3.pdb
+C:\Users\admin\Desktop\Lab3\SE1435_DatHM_HE141249Lab_3\Lab_3\obj\Debug\Lab_3.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Lab3\SE1435_DatHM_HE141249Lab_3\Lab_3\obj\Debug\Lab_3.frmEmployee.resources
+C:\Users\admin\Desktop\Lab3\SE1435_DatHM_HE141249Lab_3\Lab_3\obj\Debug\Lab_3.Properties.Resources.resources
+C:\Users\admin\Desktop\Lab3\SE1435_DatHM_HE141249Lab_3\Lab_3\obj\Debug\Lab_3.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Lab3\SE1435_DatHM_HE141249Lab_3\Lab_3\obj\Debug\Lab_3.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Lab3\SE1435_DatHM_HE141249Lab_3\Lab_3\obj\Debug\Lab_3.exe
+C:\Users\admin\Desktop\Lab3\SE1435_DatHM_HE141249Lab_3\Lab_3\obj\Debug\Lab_3.pdb
+C:\Users\admin\Desktop\Lab3\SE1435_DatHM_HE141249Lab_3\Lab_3\obj\Debug\Lab_3.frmAdd.resources
